@@ -1,0 +1,53 @@
+ FirstName = Sneha
+ Last Name = hudge
+ Address = jdk
+ City = latur
+ State = maha
+ Zip = 413512
+ Phone Number = 33
+ Email = dd
+
+ FirstName = Swapnil
+ Last Name = hudge
+ Address = dd
+ City = pune
+ State = andhra
+ Zip = 1234
+ Phone Number = 3333456
+ Email = ddd
+
+ FirstName =Snehal
+ Last Name = hudge
+ Address = jdk
+ City = latur
+ State = maha
+ Zip = 413512
+ Phone Number = 33
+ Email = dd
+
+ FirstName = Navya
+ Last Name = hudge
+ Address = dd
+ City = pune
+ State = andhra
+ Zip = 1234
+ Phone Number = 3333456
+ Email = ddd
+
+ FirstName = akshay
+ Last Name = hudge
+ Address = latur
+ City = pune
+ State = maha
+ Zip = 432
+ Phone Number = 2332223
+ Email = dd
+
+ FirstName = suraj
+ Last Name = dd
+ Address = ded
+ City = pune
+ State = kar
+ Zip = 222
+ Phone Number = dd
+ Email = dd
